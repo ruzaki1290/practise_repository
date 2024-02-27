@@ -16,6 +16,8 @@ Use **_double space_** for the text to go one line down.
 
 Text is ~~crossed off~~  
 
+Text is <ins>Underlined</ins>
+
 Text is <mark>highlighted</mark> 
 
 X<sup>2</sup>
